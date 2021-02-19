@@ -1,7 +1,9 @@
   
 // Vous devez assigner la bonne string à la variable password ci dessous
 // Et obtenir le message 'OK' en éxecutant le programme
-let password = ''
+let password = 'ZZZZZZZZZZZZZZM'
+
+console.log(password.charCodeAt)
 
 
 
@@ -18,5 +20,8 @@ const crackme4 = (password) => {
 }
 
 crackme4(password)
+
+
+
 
 
